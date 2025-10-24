@@ -8,4 +8,9 @@ Criação de um sistema financeiro unificado para os empreendimentos do Grupo Es
 
 ## Requisitos Funcionais (RF) ‼️
 
+| **Ordenação** | **Descrição** | **Prioridade**|  
+| ------------- | ------------- | ------------- |
+| RF01          |               |               |    
+| RF02          |               |               | 
+
 ## Requisitos Não Funcionais (RNF) ❗
